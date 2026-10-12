@@ -40,10 +40,14 @@
     </td>
     <td width="33.33%" align="left">
       <img src="assets/logos/icons8-javascript.svg" width="20" height="20" /> <b>JavaScript</b><br>
-      <code>▰▱▱▱▱▱▱▱▱▱</code> <b>10%</b>
+      <code>▰▰▱▱▱▱▱▱▱▱</code> <b>20%</b>
     </td>
   </tr>
   <tr>
+    <td width="33.33%" align="left">
+      <img src="assets/logos/icons8-php.svg" width="20" height="20" /> <b>PHP</b><br>
+      <code>▰▰▱▱▱▱▱▱▱▱</code> <b>20%</b>
+    </td>
     <td width="33.33%" align="left">
       <img src="assets/logos/icons8-typescript.svg" width="20" height="20" /> <b>TypeScript</b><br>
       <code>▰▱▱▱▱▱▱▱▱▱</code> <b>5%</b>
@@ -51,10 +55,6 @@
     <td width="33.33%" align="left">
       <img src="assets/logos/icons8-mongodb.svg" width="20" height="20" /> <b>MongoDB</b><br>
       <code>▰▱▱▱▱▱▱▱▱▱</code> <b>5%</b>
-    </td>
-    <td width="33.33%" align="left">
-      <img src="assets/logos/icons8-php.svg" width="20" height="20" /> <b>PHP</b><br>
-      <code>▰▱▱▱▱▱▱▱▱▱</code> <b>1%</b>
     </td>
   </tr>
 </table>
